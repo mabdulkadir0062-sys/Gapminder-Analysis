@@ -3,7 +3,6 @@
 # Project Overview
 
 . This project analyzes global development data using the Gapminder dataset to understand how economic indicators (GDP) relate to human
-
 development outcomes (life expectancy) across continents
 
 ### 💼 Business / Analytical Problem
