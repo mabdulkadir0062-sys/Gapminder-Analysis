@@ -25,21 +25,25 @@ development outcomes (life expectancy) across continents
 . Converted data from Pandas → Polars for faster processing
 
 . Verified structure and consistency of data
-📈 Visualizations
-🌍 Average Life Expectancy by Continent
-Bar chart comparing continents
-Includes:
-Population size
-Average GDP (hover data)
+
+## 📊 Visualizations
+
+.### 1. Average Life Expectancy by Continent
+
+ . Bar chart comparing continents
+  
 ➡ Helps identify which regions have higher living standards
-💰 GDP vs Life Expectancy
-Scatter plot with:
-GDP per capita (log scale)
-Life expectancy
-Bubble size = population
-Trendline (OLS regression)
+
+### 2. GDP vs Life Expectanc
+
+. Scatter plot 
+
 ➡ Shows the relationship between wealth and health
-📊 Life Expectancy Trends Over Time
-Line chart showing changes across years
-Segmented by continent
-➡ Reveals development progress and convergence/divergence patterns
+
+### 3. Life Expectancy Trends Over Time
+
+. Line chart 
+
+➡ Reveals development progress over time 
+
+
