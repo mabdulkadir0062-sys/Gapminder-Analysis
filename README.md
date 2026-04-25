@@ -31,7 +31,7 @@ development outcomes (life expectancy) across continents
 
 ## 📊 Visualizations
 
-.### 1. Average Life Expectancy by Continent
+### 1. Average Life Expectancy by Continent
 
  . Bar chart comparing continents
   
