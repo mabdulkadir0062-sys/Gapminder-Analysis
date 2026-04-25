@@ -87,6 +87,17 @@ development outcomes (life expectancy) across continents
 
 ​. Universal Growth:
 
-- Every continent has achieved a steady uninterrupted increase in life expectancy since 1952…
+- Every continent has achieved a steady uninterrupted increase in life expectancy since 1952
+
+## 🏁 Project Conclusion
+
+​. Wealth Drives Health: 
+
+- There is a direct link between economic prosperity and longevity with higher-income continents consistently living longer
+
+​. Universal Progress: 
+
+Despite economic gaps, every region in the world has seen a steady, significant increase in life expectancy over the last 50 years
+
 
 
