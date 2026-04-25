@@ -58,4 +58,32 @@ development outcomes (life expectancy) across continents
 
 . End-to-end analytics workflow
 
+## 📈 Insights
+
+### 1. Average Life Expectancy by Continent 
+
+​. Regional Ranking:
+
+- Oceania and Europe lead the world with the highest average life expectancy both exceeding 70 years
+
+​. Significant Gap:
+
+- Africa shows the lowest average life expectancy trailing the leading continents by nearly 25 years
+
+​### 2. GDP vs. Life Expectancy 
+
+​. Economic Correlation: 
+
+- There is a clear positive trend showing that as a continent's wealth (GDP) increases the lifespan of its citizens also rises
+  
+​. Population Impact:
+
+-  Asia stands out as a massive population center that is rapidly moving toward the high-wealth high-health cluster
+-  
+​### 3. Life Expectancy Trend
+
+​. Universal Growth:
+
+- Every continent has achieved a steady uninterrupted increase in life expectancy since 1952…
+
 
