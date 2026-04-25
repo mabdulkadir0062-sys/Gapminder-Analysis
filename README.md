@@ -99,5 +99,14 @@ development outcomes (life expectancy) across continents
 
 - Despite economic gaps, every region in the world has seen a steady significant increase in life expectancy over the last 50 years
 
+ ## 👤 Author
+
+Junior Data Analyst
+
+Python (Polars) | SQL | visualization (Plotly)
+
+Actively seeking opportunities in Canada with employer sponsorship
+
+
 
 
