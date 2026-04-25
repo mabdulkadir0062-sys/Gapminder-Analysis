@@ -97,7 +97,7 @@ development outcomes (life expectancy) across continents
 
 ​. Universal Progress: 
 
-Despite economic gaps, every region in the world has seen a steady, significant increase in life expectancy over the last 50 years
+- Despite economic gaps, every region in the world has seen a steady significant increase in life expectancy over the last 50 years
 
 
 
