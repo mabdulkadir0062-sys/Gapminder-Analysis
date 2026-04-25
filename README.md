@@ -46,4 +46,16 @@ development outcomes (life expectancy) across continents
 
 ➡ Reveals development progress over time 
 
+## 🧠 Skills Demonstrated
+
+### theese skills are :
+
+. Data cleaning and transformation
+
+. Group-by aggregation analysis
+
+. Interactive data visualization
+
+. End-to-end analytics workflow
+
 
