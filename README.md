@@ -18,13 +18,16 @@ development outcomes (life expectancy) across continents
 . How does population size impact these relationships?
 
 ## 🧹 Data Cleaning & Preparation
+
 ### The dataset was prepared for analysis using the following steps:
 
 . Loaded dataset from Plotly’s built-in Gapminder dataset
 
 . Converted data from Pandas → Polars for faster processing
 
-. Verified structure and consistency of data
+. Group-by aggregation analysis
+
+. Interactive data visualization
 
 ## 📊 Visualizations
 
@@ -70,7 +73,7 @@ development outcomes (life expectancy) across continents
 
 - Africa shows the lowest average life expectancy trailing the leading continents by nearly 25 years
 
-​### 2. GDP vs. Life Expectancy 
+### 2. GDP vs. Life Expectancy 
 
 ​. Economic Correlation: 
 
@@ -80,7 +83,7 @@ development outcomes (life expectancy) across continents
 
 -  Asia stands out as a massive population center that is rapidly moving toward the high-wealth high-health cluster
 -  
-​### 3. Life Expectancy Trend
+### 3. Life Expectancy Trend
 
 ​. Universal Growth:
 
