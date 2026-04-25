@@ -7,7 +7,7 @@ development outcomes (life expectancy) across continents
 
 ### 💼 Business / Analytical Problem
 
-###bOrganizations such as governments, NGOs, and international institutions often need to answer:
+### Organizations such as governments, NGOs, and international institutions often need to answer:
 
 . Does higher GDP lead to better living conditions?
 
